@@ -1,2 +1,2 @@
 # ReactNotes
-Notes taken from coursera React Basics and Advanced
+Notes taken from coursera React Basics and Advanced course
